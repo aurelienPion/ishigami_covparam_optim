@@ -5,4 +5,4 @@ Specifically, we consider covariance hyperparameter optimization for the Ishigam
 
 The reported figure summarizes results over 100 independent repetitions. In each repetition, a new design of experiments is sampled, evaluated on the Ishigami function, and used to construct the likelihood, and hence the corresponding objective function.
 
-[Results](non_noisy_best_y_loglik_comp_test.pdf)
+[Results](non_noisy_best_y_loglik_comp_test.png)
